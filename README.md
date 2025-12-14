@@ -6,3 +6,4 @@ readme cleanup
 daily progress update
 add usage note
 content update
+final readme update
