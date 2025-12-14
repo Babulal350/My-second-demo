@@ -5,3 +5,4 @@ Day 3 update
 readme cleanup
 daily progress update
 add usage note
+content update
